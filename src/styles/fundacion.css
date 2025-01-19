@@ -1,0 +1,25 @@
+/* fundacion.css */
+.fundacion-section {
+    background-color: #f8f9fa; /* Fondo suave */
+  }
+  
+  .fundacion-section h2 {
+    font-size: 2rem; /* Tamaño de los títulos */
+    font-weight: bold;
+  }
+  
+  .fundacion-section p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #555; /* Color de texto */
+  }
+  
+  .fundacion-section .img-fluid {
+    object-fit: cover; /* Para que la imagen cubra el espacio de la columna sin distorsionarse */
+    max-height: 700px; /* Limita la altura máxima de la imagen */
+  }
+  
+  .fundacion-section .shadow {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+  }
+  

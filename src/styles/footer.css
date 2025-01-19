@@ -1,0 +1,36 @@
+/* Footer.css */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.container-fluid {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Esto asegura que el contenido ocupe al menos toda la altura de la ventana */
+}
+
+footer {
+  background-color: #343a40; /* Color oscuro de fondo */
+  margin-top: auto; /* Esto empuja el footer hacia la parte inferior */
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer .social-icons i {
+  font-size: 24px;
+  align-items: center;
+  padding-left: 10px;
+}
+
+footer .social-icons a:hover i {
+  color: #ff7f50; /* Color de hover (salmón) */
+}
+
+footer h5 {
+  margin-bottom: 1rem;
+}
+
+

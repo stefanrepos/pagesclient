@@ -1,0 +1,50 @@
+/* Header.css */
+.navbar-salmon {
+  background-color: #FA8072 !important; /* Salmón */
+  padding: 10px 20px;
+  border-bottom: 3px solid #e87e7e; /* Añadido borde inferior */
+}
+
+.navbar-salmon .navbar-brand {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #fff;
+  transition: color 0.3s ease-in-out;
+}
+
+.navbar-salmon .navbar-brand:hover {
+  color: #ffcc00; /* Color dorado al pasar el cursor */
+}
+
+.navbar-salmon .navbar-nav .nav-link {
+  color: #fff !important;
+  font-size: 1.1rem;
+  padding: 10px 15px;
+  transition: color 0.3s ease-in-out;
+}
+
+.navbar-salmon .navbar-nav .nav-link:hover {
+  color: #ffcc00 !important; /* Mismo color dorado al pasar el cursor */
+}
+
+.navbar-salmon .navbar-toggler {
+  border-color: transparent;
+}
+
+.navbar-salmon .navbar-toggler-icon {
+  background-color: transparent;
+}
+
+@media (max-width: 768px) {
+  .navbar-salmon {
+    padding: 15px;
+  }
+
+  .navbar-salmon .navbar-brand {
+    font-size: 1.8rem;
+  }
+
+  .navbar-salmon .navbar-nav .nav-link {
+    font-size: 1.2rem;
+  }
+}
