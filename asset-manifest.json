@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pagesclient/static/css/main.05dc303e.css",
+    "main.js": "/pagesclient/static/js/main.cb1ee346.js",
+    "static/js/488.d82f6941.chunk.js": "/pagesclient/static/js/488.d82f6941.chunk.js",
+    "static/media/fibras.jpg": "/pagesclient/static/media/fibras.6ff472714661a7d5d92d.jpg",
+    "index.html": "/pagesclient/index.html",
+    "main.05dc303e.css.map": "/pagesclient/static/css/main.05dc303e.css.map",
+    "main.cb1ee346.js.map": "/pagesclient/static/js/main.cb1ee346.js.map",
+    "488.d82f6941.chunk.js.map": "/pagesclient/static/js/488.d82f6941.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05dc303e.css",
+    "static/js/main.cb1ee346.js"
+  ]
+}
